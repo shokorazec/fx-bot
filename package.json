@@ -1,0 +1,9 @@
+{
+  "name": "fx-bot",
+  "version": "1.0.0",
+  "description": "24h FX Alert Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
